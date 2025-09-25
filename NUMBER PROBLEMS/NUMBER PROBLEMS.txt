@@ -1,0 +1,87 @@
+NUMBER PROBLEMS
+
+Beginner Level
+1. Even & Odd
+   - Check if a number is even or odd
+   - Count even and odd digits in a number
+
+2. Prime Numbers
+   - Check if a number is prime
+   - Print all prime numbers in a range
+
+3. Palindrome Numbers
+   - Check if a number is palindrome (e.g., 121)
+   - Print all palindrome numbers in a range
+
+4. Factorial
+   - Find factorial of a number using loops
+   - Find factorial using recursion
+
+5. Fibonacci Series
+   - Print first N Fibonacci numbers
+   - Find the Nth Fibonacci number
+
+6. Reverse a Number
+   - Reverse digits of a number (e.g., 123 → 321)
+   - Check if reversed number equals original
+
+7. Armstrong Numbers
+   - Check if a number is Armstrong (e.g., 153)
+   - Print all Armstrong numbers in a range
+
+Intermediate Level
+8. Strong Number
+   - Sum of factorial of digits equals the number (e.g., 145 = 1!+4!+5!)
+
+9. Perfect Number
+   - Sum of proper divisors equals the number (e.g., 28)
+
+10. Neon Number
+    - Sum of digits of square equals the number
+
+11. Harshad (Niven) Number
+    - Number divisible by sum of its digits
+
+12. Automorphic Number
+    - Number whose square ends with the number itself
+
+13. Spy Number
+    - Sum of digits equals product of digits
+
+14. Buzz Number
+    - Number ends with 7 or divisible by 7
+
+15. Sunny Number
+    - N + 1 is a perfect square
+
+16. Magic Number
+    - Repeated sum of digits becomes 1
+
+Advanced Level
+17. GCD & LCM
+    - Find GCD using Euclidean algorithm
+    - Find LCM using GCD
+
+18. Prime Factorization
+    - Print all prime factors of a number
+
+19. Binary/Decimal Conversion
+    - Convert decimal → binary, octal, hex
+    - Convert binary → decimal
+
+20. Strong Prime
+    - Prime number closer to average of nearest primes
+
+21. Smith Number
+    - Composite number whose sum of digits = sum of digits of prime factors
+
+22. Kaprekar Number
+    - Square split into two parts, sum equals original
+
+23. Happy Number
+    - Repeated sum of squares of digits leads to 1
+
+24. Special Number Series
+    - Prime Fibonacci numbers
+    - Palindrome primes
+    - Twin primes
