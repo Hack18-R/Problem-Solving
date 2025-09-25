@@ -1,4 +1,4 @@
-NUMBER PROBLEMS IN JAVA
+NUMBER PROBLEMS
 
 Beginner Level
 1. Even & Odd
