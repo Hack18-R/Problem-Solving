@@ -54,21 +54,3 @@ This repository is organized into the following categories:
 
 ---
 
-You can also **add links to each folder** in the table of contents so people can quickly jump to the section. For example:
-
-```markdown
-### Contents 🗂️
-- [Pattern Problems](./Pattern-Problems)
-- [Number Problems](./Number-Problems)
-- [Arrays Problems](./Arrays-Problems)
-- [String Problems](./String-Problems)
-- [DSA Problems](./DSA-Problems)
-- [OOPs Problems](./OOPs-Problems)
-- [Platform Problems](./Platform-Problems)
-```
-
----
-
-If you want, I can **write a fully formatted README file** with **folders linked, emojis, and badges** that looks professional for GitHub. It’ll be ready to copy-paste.
-
-Do you want me to do that?
