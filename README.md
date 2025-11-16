@@ -33,12 +33,7 @@ This repository is organized into the following categories:
 * Problems involving Data Structures & Algorithms.
 * Example: Linked List, Stack, Queue, Trees, Graphs, Dynamic Programming.
 
-### 6. OOPs Problems 🏗️
-
-* Object-Oriented Programming challenges.
-* Example: Classes, Objects, Inheritance, Polymorphism.
-
-### 7. Platform Problems 🌐
+### 6. Platform Problems 🌐
 
 * Problems from coding platforms like LeetCode, HackerRank, Codeforces, etc.
 * Example: Selected problems from online platforms for practice.
