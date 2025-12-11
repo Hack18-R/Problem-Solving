@@ -1,4 +1,6 @@
                                                     ARRAYS PROBLEMS 
 
-1.Second Largest Element in an Array
-2.
+PART 1: BASICS 
+1.Second Largest Element
+2.Third Largest Element
+
