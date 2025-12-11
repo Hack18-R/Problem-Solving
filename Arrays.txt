@@ -1,6 +1,0 @@
-                                                    ARRAYS PROBLEMS 
-
-PART 1: BASICS 
-1.Second Largest Element
-2.Third Largest Element
-
