@@ -16,11 +16,9 @@ It is aimed at building strong **logical thinking**, preparing for **technical i
 ## Topics Covered
 
 ### Basics
-- Input / Output
-- Conditional statements
-- Loops
 - Pattern problems (stars, numbers, alphabets)
-- Number & math logic (prime, factorial, palindrome, GCD/LCM, Fibonacci)
+- Standard Logical problems 
+- Number Problems
 - Basic bit manipulation
 
 ### Core DSA
@@ -38,11 +36,10 @@ It is aimed at building strong **logical thinking**, preparing for **technical i
 - Trie (basic)
 
 ### Algorithms
-- Linear Search
-- Binary Search
-- Sorting algorithms (Bubble, Selection, Insertion, Merge, Quick)
-- Greedy
-- Graphs (BFS, DFS)
+- Search ALgorithms
+- Sorting Algorithms
+- Greedy Algorithms
+- Graphs Algorithms 
 
 ### Problem Solving Techniques
 - Two Pointers
