@@ -27,13 +27,6 @@ It is aimed at building strong **logical thinking**, preparing for **technical i
 - Arrays (1D, 2D, Matrix)
 - Strings
 - Hashing / Frequency counting
-- Two Pointers
-- Sliding Window
-- Prefix Sum
-
-### Recursion & Backtracking
-- Recursion fundamentals
-- Backtracking (subsets, permutations)
 
 ### Data Structures
 - Stack
@@ -42,19 +35,26 @@ It is aimed at building strong **logical thinking**, preparing for **technical i
 - Binary Tree
 - Binary Search Tree (BST)
 - Heap / Priority Queue
+- Trie (basic)
 
-### Searching & Sorting
+### Algorithms
 - Linear Search
 - Binary Search
 - Sorting algorithms (Bubble, Selection, Insertion, Merge, Quick)
-
-### Algorithms
 - Greedy
 - Graphs (BFS, DFS)
-- Dynamic Programming (basic)
-- Trie (basic)
+
+### Problem Solving Techniques
+- Two Pointers
+- Sliding Window
+- Prefix Sum
+- Recursion
+- Backtracking
+- Divide & Conquer
+- Binary Search
+- Dynamic Programming Patterns
 
 ### Practice Platforms
 - LeetCode
 - HackerRank
-- GeeksforGeeks (GFG)
+- GeeksforGeeks
