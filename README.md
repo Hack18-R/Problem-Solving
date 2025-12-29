@@ -16,10 +16,9 @@ It is aimed at building strong **logical thinking**, preparing for **technical i
 ## Topics Covered
 
 ### Basics
-- Pattern problems (stars, numbers, alphabets)
-- Standard Logical problems 
+- Pattern problems (stars, numbers, alphabets) 
 - Number Problems
-- Basic bit manipulation
+- Basic
 
 ### Core DSA
 - Arrays (1D, 2D, Matrix)
@@ -50,6 +49,7 @@ It is aimed at building strong **logical thinking**, preparing for **technical i
 - Divide & Conquer
 - Binary Search
 - Dynamic Programming Patterns
+- Bit manipulation
 
 ### Practice Platforms
 - LeetCode
