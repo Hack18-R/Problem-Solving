@@ -18,8 +18,7 @@ It is aimed at building strong **logical thinking**, preparing for **technical i
 ### Basics
 - Pattern problems (stars, numbers, alphabets) 
 - Number Problems
-- Basic
-
+  
 ### Core DSA
 - Arrays (1D, 2D, Matrix)
 - Strings
