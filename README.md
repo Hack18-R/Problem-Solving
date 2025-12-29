@@ -20,19 +20,15 @@ It is aimed at building strong **logical thinking**, preparing for **technical i
 - Number Problems
 - Basic Arrays and Strings Problems 
   
-### Core DSA
+### Data Structures
 - Arrays (1D, 2D, Matrix)
 - Strings
 - Hashing / Frequency counting
-
-### Data Structures
 - Stack
 - Queue / Deque
 - Linked List
-- Binary Tree
-- Binary Search Tree (BST)
-- Heap / Priority Queue
-- Trie (basic)
+- Tree
+- Graph
 
 ### Algorithms
 - Search ALgorithms
