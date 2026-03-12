@@ -16,8 +16,7 @@ It is aimed at building strong **logical thinking**, preparing for **technical i
 ## Topics Covered
 
 ### Basics
-- Pattern problems (stars, numbers, alphabets) 
-- Number Problems
+- Pattern problems (stars, numbers) 
 - Basic Arrays and Strings Problems 
   
 ### Data Structures
