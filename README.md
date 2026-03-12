@@ -20,7 +20,7 @@ It is aimed at building strong **logical thinking**, preparing for **technical i
 - Basic Arrays and Strings Problems 
   
 ### Data Structures
-- Arrays (1D, 2D, Matrix)
+- Arrays
 - Strings
 - Hashing / Frequency counting
 - Stack
