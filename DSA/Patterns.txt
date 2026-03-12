@@ -1,0 +1,12 @@
+Patterns 
+
+1.Right Half Pyramid
+2.Inverted Right Half Pyramid
+3.Inverted Left Half Pyramid
+4.Left Half Pyramid
+5.Full Pyramid
+6.Inverted Full Pyramid
+7.Half Diamond Star
+8.Diamond Shape
+9.Hollow Square
+10.Stair Case
