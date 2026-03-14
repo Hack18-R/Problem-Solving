@@ -10,3 +10,5 @@ Patterns
 8.Diamond Shape
 9.Hollow Square
 10.Stair Case
+11.Swastika
+12.Butterfly
