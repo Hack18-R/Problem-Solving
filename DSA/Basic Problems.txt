@@ -1,1 +1,9 @@
-
+Basic Problems 
+1.Check Even or Odd
+2.Multiplication Table
+3.Sum of Naturals
+4.Sum of Squares
+5.Swap Two Numbers
+6.Closest Number
+7.Dice Problem
+8.Sum of Digits
