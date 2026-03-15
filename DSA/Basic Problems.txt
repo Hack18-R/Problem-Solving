@@ -7,3 +7,5 @@ Basic Problems
 6.Closest Number
 7.Dice Problem
 8.Sum of Digits
+9.Reverse Digits
+10.Prime Number
