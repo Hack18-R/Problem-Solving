@@ -9,4 +9,7 @@ Basic Problems
 8.Sum of Digits
 9.Reverse Digits
 10.Prime Number
-11.Nth Fibonacci 
+11.Nth Fibonacci
+12.N-th term 
+13.Armstrong Number
+14.Palindrome Number
